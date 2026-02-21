@@ -1,0 +1,12 @@
+[submodule "components/zlog-sql"]
+	path = components/zlog-sql
+	url = git@github.com:BytesAndCoffee/zlog-sql.git
+[submodule "components/zlog_parsing"]
+	path = components/zlog_parsing
+	url = git@github.com:BytesAndCoffee/zlog_parsing.git
+[submodule "components/zlog_store"]
+	path = components/zlog_store
+	url = git@github.com:BytesAndCoffee/zlog_store.git
+[submodule "components/zlog_telegram"]
+	path = components/zlog_telegram
+	url = git@github.com:BytesAndCoffee/zlog_telegram.git
