@@ -2,6 +2,12 @@
 
 Meta-repository for the zlog stack.
 
+## Architecture
+
+![ZLog ecosystem architecture](docs/architecture/01-zlog-system-overview.png)
+
+The complete architecture set documents the [live notification](docs/architecture/02-live-notification-flow.png), [context lookup](docs/architecture/03-context-flow.png), [reply](docs/architecture/04-reply-flow.png), and [database recovery](docs/architecture/05-recovery-flow.png) paths. See [the architecture guide](docs/architecture/README.md) for the notation and editable SVG sources.
+
 ## Included projects
 
 - `components/zlog-sql`
